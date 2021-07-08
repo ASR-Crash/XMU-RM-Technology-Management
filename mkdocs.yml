@@ -1,0 +1,14 @@
+site_name: 厦门大学·RoboMaster·技术管理<img src='https://img.wenhairu.com/images/2020/10/11/CksbD.png'>
+site_favicon: favicon.ico
+nav: 
+- 技术传承:
+    - 技术报告: TechnicalReports.md
+    - 培训课件: TrainingCourseware.md
+    - 经验体系: ExperienceSystem.md
+- 创新驱动:
+    - 规范文件: Specification.md
+    - 技术讲座: TechnicalLectures.md 
+    - 理论导入: TheoryIntroduction.md
+theme: readthedocs
+site_author: Crash
+copyright: Copyright © 2021 ASR-Crash
