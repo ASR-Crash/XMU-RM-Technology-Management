@@ -24,7 +24,15 @@
 
 #### 电控
 
+ [电控组-电子焊接安全培训.pdf](electric-control\电控组-电子焊接安全培训.pdf) 
 
+ [电控组-电子技术基础知识.pdf](electric-control\电控组-电子技术基础知识.pdf) 
+
+ [电控组-硬件标准化与系统设计.pdf](electric-control\电控组-硬件标准化与系统设计.pdf) 
+
+ [电控组-电路板设计规划原理.pdf](electric-control\电控组-电路板设计规划原理.pdf) 
+
+ [热转印制板教学.pdf](electric-control\热转印制板教学.pdf) 
 
 ---
 

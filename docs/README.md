@@ -1,6 +1,13 @@
 # 厦门大学机器人队-技术管理文档
 
+---
+
+> ***注重技术传承，开拓创新驱动***
+
+---
+
 ### 技术传承
+
 - [技术报告](TechnicalReports.md)
 - [培训课件](TrainingCourseware.md)
 - [经验体系](ExperienceSystem.md)
