@@ -14,6 +14,14 @@
 
 ---
 
+#### 测试
+
+[厦门大学 RoboMaster 测试方案](https://docs.qq.com/sheet/DR3l1bHd3TW5RdnBa)
+
+[厦门大学 RoboMaster 数据体系](https://docs.qq.com/sheet/DR0xpUlFLSW93eFZk)
+
+---
+
 ### 物资信息
 
 [厦门大学 RoboMaster 出行物资](https://docs.qq.com/sheet/DR01heW9hUW5aeU9P)
