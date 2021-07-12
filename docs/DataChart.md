@@ -18,9 +18,9 @@
 
 #### 逻辑框图
 
-![厦门大学 RoboMaster 自瞄逻辑框图](system/厦门大学 RoboMaster 自瞄逻辑框图.png)
+![厦门大学 RoboMaster 自瞄逻辑框图](logic/厦门大学 RoboMaster 自瞄逻辑框图.png)
 
-![厦门大学 RoboMaster 英雄发射逻辑框图 V2.1](system/厦门大学 RoboMaster 英雄发射逻辑框图 V2.1.png)
+![厦门大学 RoboMaster 英雄发射逻辑框图 V2.1](logic/厦门大学 RoboMaster 英雄发射逻辑框图 V2.1.png)
 
-![厦门大学 RoboMaster 步兵发射逻辑框图 V2.1](system/厦门大学 RoboMaster 步兵发射逻辑框图 V2.1.png)
+![厦门大学 RoboMaster 步兵发射逻辑框图 V2.1](logic/厦门大学 RoboMaster 步兵发射逻辑框图 V2.1.png)
 
