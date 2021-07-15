@@ -10,7 +10,7 @@
 
 - [技术报告](TechnicalReports.md)
 - [培训课件](TrainingCourseware.md)
-- [培训体系](TrainingSystem.md)
+- [培训体系](TrainingSystem.pdf)
 - [经验体系](ExperienceSystem.md)
 
 ### 创新驱动
