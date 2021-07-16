@@ -14,11 +14,15 @@
 
 ---
 
-#### 测试
+#### 测试与控制
 
 [厦门大学 RoboMaster 测试方案](https://docs.qq.com/sheet/DR3l1bHd3TW5RdnBa)
 
 [厦门大学 RoboMaster 数据体系](https://docs.qq.com/sheet/DR0xpUlFLSW93eFZk)
+
+[厦门大学 RoboMaster 操作手册](https://docs.qq.com/sheet/DR0VoaW5tZlZKaHFV)
+
+[厦门大学 RoboMaster 参考术语](https://docs.qq.com/sheet/DR1RvTVJoV3hhR05j)
 
 ---
 
