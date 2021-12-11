@@ -2,45 +2,30 @@
 
 #### 先期培训
 
- [材料.pdf](pre-training\材料.pdf) 
+ [先期培训-材料.pdf](pre-training\先期培训-材料.pdf) 
 
- [电磁阀.pdf](pre-training\电磁阀.pdf) 
+ [先期培训-操作.pdf](pre-training\先期培训-操作.pdf) 
 
- [内部传感器.pdf](pre-training\内部传感器.pdf) 
+ [先期培训-传感器.pdf](pre-training\先期培训-传感器.pdf) 
 
- [气缸.pdf](pre-training\气缸.pdf) 
+ [先期培训-工具.pdf](pre-training\先期培训-工具.pdf) 
 
- [外部传感器.pdf](pre-training\外部传感器.pdf) 
+ [先期培训-机械结构.pdf](pre-training\先期培训-机械结构.pdf) 
 
- [执行器.pdf](pre-training\执行器.pdf) 
+ [先期培训-控制器.pdf](pre-training\先期培训-控制器.pdf) 
 
----
+ [先期培训-零件.pdf](pre-training\先期培训-零件.pdf) 
 
-#### 机械
+ [先期培训-赛事.pdf](pre-training\先期培训-赛事.pdf) 
 
+ [先期培训-设备.pdf](pre-training\先期培训-设备.pdf) 
 
+ [先期培训-团队.pdf](pre-training\先期培训-团队.pdf) 
 
----
+ [先期培训-线路.pdf](pre-training\先期培训-线路.pdf) 
 
-#### 电控
+ [先期培训-执行器.pdf](pre-training\先期培训-执行器.pdf) 
 
- [电控组-电子焊接安全培训.pdf](electric-control\电控组-电子焊接安全培训.pdf) 
+初级培训、中级培训、高级培训课件请移步：
 
- [电控组-电子技术基础知识.pdf](electric-control\电控组-电子技术基础知识.pdf) 
-
- [电控组-硬件标准化与系统设计.pdf](electric-control\电控组-硬件标准化与系统设计.pdf) 
-
- [电控组-电路板设计规划原理.pdf](electric-control\电控组-电路板设计规划原理.pdf) 
-
- [热转印制板教学.pdf](electric-control\热转印制板教学.pdf) 
-
----
-
-#### 视觉
-
-
-
----
-
-#### 运营
-
+[00 新队员培训课件 - 飞书云文档 (feishu.cn)](https://xmurcsrobot.feishu.cn/drive/folder/fldcnKUK8xJGrrIxFt4aupIrr6g)
